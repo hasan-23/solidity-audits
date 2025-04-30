@@ -12,6 +12,8 @@ This repository contains structured audits of my analyzed Solidity projects, inc
 
 - [`modifier-practice.md`](./audits/modifier-practice.md)  
   → Audit report for a role-based withdrawal contract featuring multiple custom modifiers.
+- [FundTracker_Audit.md](./audits/FundTracker_Audit.md)  
+  → Audit report for an ETH deposit and secure withdrawal contract with access control and custom errors.
 
 ---
 
