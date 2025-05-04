@@ -5,7 +5,7 @@
 - **Contract Name**: FundTracker
 - **Lines of Code**: ~50
 - **Audit Type**: Manual Static Review
-- **Date**: 2024-04-30
+- **Date**: 2025-04-30
 - **Author**: Hasan
 - **Repository**: [solidity-projects](https://github.com/hasan-23/solidity-projects/blob/main/contracts/FundTracker.sol)
 
