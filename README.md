@@ -14,12 +14,25 @@ This repository contains structured audits of my analyzed Solidity projects, inc
   → Audit report for a role-based withdrawal contract featuring multiple custom modifiers.
 - [FundTracker_Audit.md](./audits/FundTracker_Audit.md)  
   → Audit report for an ETH deposit and secure withdrawal contract with access control and custom errors.
+- [ValidationPractice_Audit.md](audits/ValidationPractice_Audit.md)  
+  → Audit report for a secure deposit & withdrawal system using custom errors and modifiers.
 
 ---
 
-## 📬 Contact
+## 🌍 Connect With Me
 
-Want to collaborate, request an audit, or view my work?
+- Twitter: [@md_tanvir4](https://x.com/md_tanvir4)  
+- GitHub: [hasan-23](https://github.com/hasan-23)  
+- LinkedIn: [md-hasan-tanvir](https://www.linkedin.com/in/md-hasan-tanvir-64390719a/)
 
-- Twitter: [@md_tanvir4](https://x.com/md_tanvir4)
-- GitHub: [github.com/hasan-23](https://github.com/hasan-23)
+---
+
+## 🚀 Learning Goal
+
+This repo is part of my **Solidity Roadmap**, where I’m building public proof of skills in:
+
+- Smart contract auditing  
+- Solidity security research  
+- Freelance/Web3 career building
+
+Stay tuned as I grow through code, audits, and secure decentralized systems.
